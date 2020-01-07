@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="811809f2-a6d8-43ea-b670-033e65390d7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../PlaningPokerJavitas/User/app/src/main/java/com/example/user/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/asynclayoutinflater/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/asynclayoutinflater/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/compat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/compat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/constraint/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/constraint/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/coordinatorlayout/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/coordinatorlayout/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/coreui/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/coreui/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/coreutils/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/coreutils/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/customview/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/customview/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/design/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/design/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/drawerlayout/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/drawerlayout/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/fragment/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/fragment/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/graphics/drawable/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/graphics/drawable/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/loader/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/loader/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/mediacompat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/mediacompat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/slidingpanelayout/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/slidingpanelayout/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/swiperefreshlayout/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/swiperefreshlayout/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/transition/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/transition/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/v4/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/v4/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/v7/appcompat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/v7/appcompat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/v7/recyclerview/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/v7/recyclerview/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/v7/viewpager/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/v7/viewpager/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/github/florent37/diagonallayout/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/github/florent37/diagonallayout/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/android/gms/base/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/android/gms/base/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/firebase/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/firebase/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/firebase/database/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/firebase/database/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/jsibbold/zoomage/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/jsibbold/zoomage/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/max/def/movieapp/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/max/def/movieapp/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/pierfrancescosoffritti/androidyoutubeplayer/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/pierfrancescosoffritti/androidyoutubeplayer/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/angmarch/views/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/angmarch/views/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/blame/res/debug/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/blame/res/debug/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/blame/res/debug/single/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/1r32YWVD_2qaYJnKXUbY4n5Z9Jk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/incremental/debug-mergeJniLibs/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/1r32YWVD_2qaYJnKXUbY4n5Z9Jk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/0oqYVhFcpaiDR2R_04ueYsKpnvk=" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/0oqYVhFcpaiDR2R_04ueYsKpnvk=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/wsGpG7d5WiYy7d7mv5xR4qK6xZA=" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/wsGpG7d5WiYy7d7mv5xR4qK6xZA=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/instant_app_manifest/debug/processDebugManifest/instant-app-manifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/instant_app_manifest/debug/processDebugManifest/instant-app-manifest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/asynclayoutinflater/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/asynclayoutinflater/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/constraint/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/constraint/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coordinatorlayout/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coordinatorlayout/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/customview/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/customview/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/design/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/design/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/design/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/design/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/drawerlayout/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/drawerlayout/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/loader/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/loader/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/mediacompat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/mediacompat/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/slidingpanelayout/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/slidingpanelayout/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/swiperefreshlayout/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/swiperefreshlayout/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/transition/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/transition/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v4/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v4/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/recyclerview/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/recyclerview/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/viewpager/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/viewpager/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/github/florent37/diagonallayout/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/github/florent37/diagonallayout/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/github/florent37/diagonallayout/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/github/florent37/diagonallayout/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/google/android/gms/base/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/google/android/gms/base/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/google/firebase/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/google/firebase/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/google/firebase/database/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/google/firebase/database/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/jsibbold/zoomage/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/jsibbold/zoomage/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/jsibbold/zoomage/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/jsibbold/zoomage/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Adpaters/ExtraVideosRecyclerAdapter$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Adpaters/ExtraVideosRecyclerAdapter$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Adpaters/ExtraVideosRecyclerAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Adpaters/ExtraVideosRecyclerAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Adpaters/MoviePosterImagesAdapter$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Adpaters/MoviePosterImagesAdapter$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Adpaters/MoviePosterImagesAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Adpaters/MoviePosterImagesAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Adpaters/MovieSearchAdapter$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Adpaters/MovieSearchAdapter$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Adpaters/MovieSearchAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Adpaters/MovieSearchAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Adpaters/MovieVideosAdapter$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Adpaters/MovieVideosAdapter$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Adpaters/MovieVideosAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Adpaters/MovieVideosAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/ImageViewerActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Interfaces/RetrofitService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Interfaces/RetrofitService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/LoginActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/LoginActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/MainActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/MainActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/MainActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Model/MovieDetailsProductionCompanies.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Model/MovieDetailsProductionCompanies.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Model/MovieResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Model/MovieResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Model/MovieResponseResults.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Model/MovieResponseResults.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Model/PersonDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Model/PersonImages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/Model/PersonImagesProfiles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/MovieDetailActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/MovieDetailActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/MovieDetailActivity$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/MovieDetailActivity$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/MovieDetailActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/MoviesActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/MoviesActivity$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/MoviesActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/MoviesActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$anim.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$anim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$animator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$animator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$array.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$font.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$font.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$interpolator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$interpolator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$mipmap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$mipmap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$raw.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$raw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/RegisterActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/RegisterActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/VideoPlayActivity$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/VideoPlayActivity$1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/VideoPlayActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/VideoPlayActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/ViewHolders/ImagesViewHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/ViewHolders/ImagesViewHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/ViewHolders/MovieCreditsViewHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/ViewHolders/MovieCreditsViewHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/ViewHolders/MovieProductionCompaniesViewHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/ViewHolders/MovieProductionCompaniesViewHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/ViewHolders/MovieVideosViewHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/ViewHolders/MovieVideosViewHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/ViewHolders/SearchViewHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/max/def/movieapp/ViewHolders/SearchViewHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/pierfrancescosoffritti/androidyoutubeplayer/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/pierfrancescosoffritti/androidyoutubeplayer/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/pierfrancescosoffritti/androidyoutubeplayer/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/pierfrancescosoffritti/androidyoutubeplayer/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/angmarch/views/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/angmarch/views/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/angmarch/views/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/angmarch/views/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/anim_layout_slide_bottom.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/anim_layout_slide_right.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/anim_slide_from_bottom.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/anim_slide_from_right.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/anim_slide_in_left.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/anim_slide_in_right.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/anim_slide_out_left.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/anim_slide_out_right.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/layout_activity_image_viewer.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/layout_activity_image_viewer.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/layout_activity_movie_detail.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/layout_activity_movie_detail.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/layout_activity_movies.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/layout_activity_movies.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/layout_activity_register.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/layout_activity_register.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/layout_activity_video_play.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/layout_activity_video_play.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/layout_production_company_layout.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/layout_search_layout_items.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/merged/debug/layout_search_layout_items.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/symbols/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/symbols/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/10.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/10.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/100.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/101.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/102.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/103.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/104.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/105.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/106.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/107.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/108.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/109.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/11.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/11.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/110.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/111.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/112.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/113.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/114.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/115.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/116.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/117.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/118.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/119.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/12.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/12.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/120.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/121.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/122.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/123.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/124.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/125.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/126.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/127.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/128.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/129.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/130.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/131.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/132.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/133.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/134.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/135.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/136.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/137.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/138.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/139.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/14.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/14.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/140.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/141.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/142.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/143.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/144.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/145.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/146.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/147.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/148.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/149.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/15.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/15.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/150.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/151.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/152.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/153.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/154.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/155.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/156.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/157.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/158.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/16.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/16.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/160.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/161.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/163.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/164.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/165.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/166.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/167.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/169.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/17.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/17.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/170.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/171.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/172.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/173.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/174.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/175.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/177.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/178.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/18.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/18.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/180.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/181.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/182.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/183.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/184.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/185.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/186.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/187.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/189.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/19.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/19.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/192.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/193.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/194.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/195.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/196.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/197.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/198.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/199.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/20.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/20.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/200.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/201.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/202.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/203.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/204.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/205.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/206.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/207.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/208.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/209.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/21.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/21.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/210.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/arch/core/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/arch/lifecycle/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/arch/lifecycle/livedata/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/arch/lifecycle/livedata/core/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/arch/lifecycle/viewmodel/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/asynclayoutinflater/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/asynclayoutinflater/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/asynclayoutinflater/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/asynclayoutinflater/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/asynclayoutinflater/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/asynclayoutinflater/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/asynclayoutinflater/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/asynclayoutinflater/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/asynclayoutinflater/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/asynclayoutinflater/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/asynclayoutinflater/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/compat/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/compat/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/compat/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/compat/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/compat/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/compat/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/compat/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/compat/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/compat/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/compat/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/compat/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/constraint/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/constraint/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/constraint/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/constraint/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coordinatorlayout/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coordinatorlayout/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coordinatorlayout/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coordinatorlayout/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coordinatorlayout/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coordinatorlayout/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coordinatorlayout/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coordinatorlayout/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coordinatorlayout/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coordinatorlayout/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coordinatorlayout/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coreui/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coreui/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coreui/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coreui/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coreui/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coreui/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coreui/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coreui/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coreui/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coreui/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coreui/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coreutils/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coreutils/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coreutils/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coreutils/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coreutils/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coreutils/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coreutils/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coreutils/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coreutils/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coreutils/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/coreutils/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/cursoradapter/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/customview/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/customview/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/customview/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/customview/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/customview/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/customview/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/customview/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/customview/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/customview/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/customview/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/customview/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/design/R$anim.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/design/R$animator.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/design/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/design/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/design/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/design/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/design/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/design/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/design/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/design/R$interpolator.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/design/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/design/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/design/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/design/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/design/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/documentfile/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/drawerlayout/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/drawerlayout/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/drawerlayout/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/drawerlayout/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/drawerlayout/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/drawerlayout/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/drawerlayout/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/drawerlayout/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/drawerlayout/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/drawerlayout/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/drawerlayout/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/fragment/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/fragment/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/fragment/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/fragment/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/fragment/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/fragment/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/fragment/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/fragment/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/fragment/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/fragment/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/fragment/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/graphics/drawable/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/graphics/drawable/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/graphics/drawable/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/graphics/drawable/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/graphics/drawable/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/graphics/drawable/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/graphics/drawable/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/graphics/drawable/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/graphics/drawable/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/graphics/drawable/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/graphics/drawable/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/interpolator/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/loader/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/loader/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/loader/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/loader/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/loader/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/loader/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/loader/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/loader/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/loader/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/loader/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/loader/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/localbroadcastmanager/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/mediacompat/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/mediacompat/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/mediacompat/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/mediacompat/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/mediacompat/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/mediacompat/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/mediacompat/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/mediacompat/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/mediacompat/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/mediacompat/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/mediacompat/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/mediacompat/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/print/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/slidingpanelayout/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/slidingpanelayout/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/slidingpanelayout/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/slidingpanelayout/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/slidingpanelayout/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/slidingpanelayout/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/slidingpanelayout/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/slidingpanelayout/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/slidingpanelayout/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/slidingpanelayout/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/slidingpanelayout/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/swiperefreshlayout/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/swiperefreshlayout/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/swiperefreshlayout/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/swiperefreshlayout/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/swiperefreshlayout/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/swiperefreshlayout/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/swiperefreshlayout/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/swiperefreshlayout/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/swiperefreshlayout/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/swiperefreshlayout/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/swiperefreshlayout/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/transition/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/transition/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/transition/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/transition/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/transition/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/transition/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/transition/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/transition/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/transition/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/transition/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/transition/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v4/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v4/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v4/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v4/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v4/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v4/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v4/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v4/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v4/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v4/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v4/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v4/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/appcompat/R$anim.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/appcompat/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/appcompat/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/appcompat/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/appcompat/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/appcompat/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/appcompat/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/appcompat/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/appcompat/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/appcompat/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/appcompat/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/appcompat/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/appcompat/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/cardview/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/cardview/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/cardview/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/cardview/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/cardview/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/cardview/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/recyclerview/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/recyclerview/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/recyclerview/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/recyclerview/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/recyclerview/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/recyclerview/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/recyclerview/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/recyclerview/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/recyclerview/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/recyclerview/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/recyclerview/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/viewpager/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/viewpager/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/viewpager/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/viewpager/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/viewpager/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/viewpager/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/viewpager/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/viewpager/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/viewpager/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/viewpager/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/android/support/v7/viewpager/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/androidx/versionedparcelable/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/codewaves/youtubethumbnailview/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/codewaves/youtubethumbnailview/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/codewaves/youtubethumbnailview/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/codewaves/youtubethumbnailview/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/github/florent37/diagonallayout/R$anim.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/github/florent37/diagonallayout/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/github/florent37/diagonallayout/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/github/florent37/diagonallayout/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/github/florent37/diagonallayout/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/github/florent37/diagonallayout/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/github/florent37/diagonallayout/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/github/florent37/diagonallayout/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/github/florent37/diagonallayout/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/github/florent37/diagonallayout/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/github/florent37/diagonallayout/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/github/florent37/diagonallayout/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/github/florent37/diagonallayout/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/github/lzyzsd/circleprogress/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/github/lzyzsd/circleprogress/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/github/lzyzsd/circleprogress/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/android/gms/base/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/android/gms/base/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/android/gms/base/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/android/gms/base/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/android/gms/base/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/android/gms/base/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/android/gms/base/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/android/gms/common/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/android/gms/common/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/android/gms/common/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/android/gms/tasks/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/database/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/database/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/database/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/database/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/database/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/database/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/database/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/database/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/database/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/database/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/database/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/database/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/google/firebase/database/collection/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/jsibbold/zoomage/R$anim.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/jsibbold/zoomage/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/jsibbold/zoomage/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/jsibbold/zoomage/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/jsibbold/zoomage/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/jsibbold/zoomage/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/jsibbold/zoomage/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/jsibbold/zoomage/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/jsibbold/zoomage/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/jsibbold/zoomage/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/jsibbold/zoomage/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/jsibbold/zoomage/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/jsibbold/zoomage/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Adpaters/ExtraVideosRecyclerAdapter$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Adpaters/ExtraVideosRecyclerAdapter.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Adpaters/MovieCreditsCastAdapter.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Adpaters/MoviePosterImagesAdapter$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Adpaters/MoviePosterImagesAdapter.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Adpaters/MovieSearchAdapter$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Adpaters/MovieSearchAdapter.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Adpaters/MovieVideosAdapter$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Adpaters/MovieVideosAdapter.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/BuildConfig.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Client/RetrofitClient.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/ImageViewerActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Interfaces/RetrofitService.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/LoginActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/LoginActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/MainActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/MainActivity$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/MainActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Model/MovieCredits.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Model/MovieCreditsCast.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Model/MovieCreditsCrew.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Model/MovieDetails.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Model/MovieDetailsBelongsToCollection.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Model/MovieDetailsGenres.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Model/MovieDetailsProductionCompanies.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Model/MovieDetailsProductionCountries.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Model/MovieDetailsSpokenLanguages.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Model/MovieImages.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Model/MovieImagesBackDropsAndPosters.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Model/MovieResponse.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Model/MovieResponseResults.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Model/MovieVideos.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Model/MovieVideosResults$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Model/MovieVideosResults.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Model/PersonDetails.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Model/PersonImages.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Model/PersonImagesProfiles.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/MovieDetailActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/MovieDetailActivity$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/MovieDetailActivity$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/MovieDetailActivity$4.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/MovieDetailActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/MoviesActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/MoviesActivity$2$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/MoviesActivity$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/MoviesActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/R$anim.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/R$animator.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/R$array.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/R$font.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/R$interpolator.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/R$mipmap.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/R$raw.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/RegisterActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/RegisterActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/User.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/Utils/FullScreenHelper.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/VideoPlayActivity$1$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/VideoPlayActivity$1$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/VideoPlayActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/VideoPlayActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/ViewHolders/ImagesViewHolder.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/ViewHolders/MovieCreditsViewHolder.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/ViewHolders/MovieProductionCompaniesViewHolder.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/ViewHolders/MovieVideosViewHolder$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/ViewHolders/MovieVideosViewHolder.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/max/def/movieapp/ViewHolders/SearchViewHolder.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/pierfrancescosoffritti/androidyoutubeplayer/R$anim.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/pierfrancescosoffritti/androidyoutubeplayer/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/pierfrancescosoffritti/androidyoutubeplayer/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/pierfrancescosoffritti/androidyoutubeplayer/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/pierfrancescosoffritti/androidyoutubeplayer/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/pierfrancescosoffritti/androidyoutubeplayer/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/pierfrancescosoffritti/androidyoutubeplayer/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/pierfrancescosoffritti/androidyoutubeplayer/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/pierfrancescosoffritti/androidyoutubeplayer/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/pierfrancescosoffritti/androidyoutubeplayer/R$raw.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/pierfrancescosoffritti/androidyoutubeplayer/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/pierfrancescosoffritti/androidyoutubeplayer/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/pierfrancescosoffritti/androidyoutubeplayer/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/com/pierfrancescosoffritti/androidyoutubeplayer/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/de/hdodenhof/circleimageview/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/de/hdodenhof/circleimageview/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/de/hdodenhof/circleimageview/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/io/paperdb/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/org/angmarch/views/R$anim.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/org/angmarch/views/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/org/angmarch/views/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/org/angmarch/views/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/org/angmarch/views/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/org/angmarch/views/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/org/angmarch/views/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/org/angmarch/views/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/org/angmarch/views/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/org/angmarch/views/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/org/angmarch/views/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/org/angmarch/views/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/211/org/angmarch/views/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/22.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/22.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/23.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/23.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/24.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/24.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/25.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/25.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/26.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/26.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/27.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/27.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/28.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/28.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/29.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/29.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/30.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/30.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/31.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/31.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/32.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/32.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/33.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/33.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/34.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/34.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/35.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/35.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/36.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/36.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/37.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/37.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/38.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/38.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/40.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/40.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/41.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/41.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/42.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/42.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/43.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/43.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/44.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/44.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/45.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/45.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/46.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/46.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/48.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/48.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/49.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/49.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/50.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/50.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/52.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/52.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/53.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/53.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/54.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/54.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/55.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/55.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/56.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/56.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/57.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/57.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/58.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/58.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/59.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/59.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/6.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/6.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/60.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/60.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/61.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/61.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/62.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/62.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/63.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/63.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/64.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/64.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/65.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/65.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/66.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/66.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/67.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/67.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/68.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/68.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/69.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/69.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/7.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/7.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/70.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/70.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/71.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/71.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/72.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/73.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/74.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/75.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/76.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/77.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/78.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/79.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/8.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/83.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/84.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/85.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/86.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/87.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/88.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/89.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/90.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/91.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/92.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/93.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/94.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/95.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/96.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexMerger/debug/1/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexMerger/debug/1/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexMerger/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/dexMerger/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Activitys/ImageViewerActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Activitys/ImageViewerActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Activitys/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Activitys/LoginActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Activitys/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Activitys/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Activitys/MovieDetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Activitys/MovieDetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Activitys/MoviesActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Activitys/MoviesActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Activitys/RegisterActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Activitys/RegisterActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Activitys/VideoPlayActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Activitys/VideoPlayActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Adpaters/ExtraVideosRecyclerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Adpaters/ExtraVideosRecyclerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Adpaters/MoviePosterImagesAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Adpaters/MoviePosterImagesAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Adpaters/MovieSearchAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Adpaters/MovieSearchAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Adpaters/MovieVideosAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Adpaters/MovieVideosAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Interfaces/RetrofitService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Interfaces/RetrofitService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Model/MovieDetailsProductionCompanies.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Model/MovieDetailsProductionCompanies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Model/MovieResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Model/MovieResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Model/MovieResponseResults.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/Model/MovieResponseResults.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/ViewHolders/MovieCreditsViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/ViewHolders/MovieCreditsViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/ViewHolders/MovieProductionCompaniesViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/ViewHolders/MovieProductionCompaniesViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/ViewHolders/SearchViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/java/com/max/def/movieapp/ViewHolders/SearchViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/res/layout/activity_image_viewer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/res/layout/activity_image_viewer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/res/layout/activity_movie_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/res/layout/activity_movie_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/res/layout/activity_movies.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/res/layout/activity_movies.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/res/layout/activity_register.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/res/layout/activity_register.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/res/layout/activity_video_play.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/res/layout/activity_video_play.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/app/src/main/res/layout/search_layout_items.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/app/src/main/res/layout/search_layout_items.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/build/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="ce011711d4a370ce0c" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/anwerresult_item.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/Adapter/AnswerAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/Fragments/AnswerResultFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="73" column="57" selection-start-line="73" selection-start-column="57" selection-end-line="73" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/Fragments/FragmentShow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="81" column="60" selection-start-line="81" selection-start-column="60" selection-end-line="81" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_sign.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/question_item.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_answer_result.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_fragment_show.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_sign.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/question_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_answer_result.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/Fragments/AnswerResultFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/Fragments/FragmentShow.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_fragment_show.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/Adapter/AnswerAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/anwerresult_item.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="619" />
+    <option name="y" value="-12" />
+    <option name="width" value="974" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="811809f2-a6d8-43ea-b670-033e65390d7d" name="Default Changelist" comment="" />
+      <created>1578419948345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578419948345</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.22921109" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="simpleUML" order="9" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.32936078" />
+      <window_info anchor="bottom" id="Logcat" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Find" order="9" visible="true" weight="0.32936078" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info active="true" anchor="right" id="Preview" order="4" visible="true" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_progress_bar_with_text.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/Adapter/AnswerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/Fragments/AnswerResultFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="73" column="57" selection-start-line="73" selection-start-column="57" selection-end-line="73" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/Fragments/FragmentShow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="81" column="60" selection-start-line="81" selection-start-column="60" selection-end-line="81" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_sign.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/question_item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_answer_result.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_fragment_show.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/anwerresult_item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+  </component>
+</project>

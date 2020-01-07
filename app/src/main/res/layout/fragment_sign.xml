@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.signFragment">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="30dp"
+        android:background="#fff"
+        >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:id="@+id/frg">
+
+        <TextView
+            android:id="@+id/fragmentTitle"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:shadowColor="@color/Dark"
+            android:gravity="center"
+            android:text="@string/open_or_create_a_group"
+            android:textAllCaps="true"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:textColor="#000" />
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+        <EditText
+            android:id="@+id/groupId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Group ID"
+            android:backgroundTint="#fff"
+            android:textColor="#000"
+            android:textColorHint="#000"
+            android:inputType="number"
+            android:layout_centerHorizontal="true"/>
+
+        <Button
+            android:id="@+id/open"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/groupId"
+            android:layout_marginTop="50dp"
+            android:layout_centerHorizontal="true"
+            android:backgroundTint="#050"
+            android:text="Open"
+            android:textColor="#fff" />
+
+        <Button
+            android:id="@+id/newfragment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/open"
+            android:layout_centerHorizontal="true"
+            android:backgroundTint="#050"
+            android:text="new"
+            android:textColor="#fff" />
+
+
+    </RelativeLayout>
+    </LinearLayout>
+
+
+</FrameLayout>

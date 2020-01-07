@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Admin</string>
+    <string name="open_create">Open/Create Group</string>
+    <string name="groupid">Group ID</string>
+    <string name="user_name">Your Name</string>
+    <string name="join">Join</string>
+    <string name="joinGroup">Join Group</string>
+    <string name="result">Result</string>
+    <string name="one">1</string>
+    <string name="five">5</string>
+    <string name="ten">10</string>
+    <string name="twenty">20</string>
+    <string name="fivty">50</string>
+    <string name="onehundred">100</string>
+    <string name="question">Question</string>
+    <string name="value">Value</string>
+    <string name="answer">Answer</string>
+    <string name="questions">Questions</string>
+    <string name="no_answers">No answers for this question</string>
+    <string name="open_or_create_a_group">Open or Create a Group</string>
+</resources>

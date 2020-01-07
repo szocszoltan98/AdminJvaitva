@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.FragmentShow"
+    android:background="#fff"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+  <TextView
+      android:layout_width="match_parent"
+      android:padding="10dp"
+      android:layout_height="wrap_content"
+      android:textStyle="bold"
+      android:textSize="30sp"
+      android:textColor="#000"
+      android:text="@string/questions"
+      android:id="@+id/myTitle"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/questionListRecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/myTitle"
+            android:layout_marginTop="-1dp"
+            android:padding="4dp"
+            android:scrollbars="vertical" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/AddNewQuestion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/questionListRecyclerView"
+            android:backgroundTint="#050"
+            android:src="@drawable/ic_add_circle" />
+
+    </RelativeLayout>
+
+
+</FrameLayout>
